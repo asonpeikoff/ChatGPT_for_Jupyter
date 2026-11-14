@@ -11,4 +11,4 @@ jupyter serverextension enable --py chatgpt_jupyter
 
 
 ### License:
-MIT License. (c) 2023 Jason Miller and Libre Agora LLC
+MIT License. (c) 2023 Ason Peikoff and Libre Agora LLC
